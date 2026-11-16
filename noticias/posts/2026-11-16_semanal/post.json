@@ -1,0 +1,14 @@
+{
+  "tipo": "semanal",
+  "pasta": "noticias/posts/2026-11-16_semanal",
+  "periodo": "8 a 15 de novembro",
+  "gancho": "Verstappen largou em 21º em Interlagos… e terminou no pódio.",
+  "noticias": [
+    {"categoria": "F1", "titulo": "Norris vence na chuva e Verstappen sai de 21º para 2º", "resumo": "Lando Norris largou na pole e venceu o GP de São Paulo com pista molhada. Max Verstappen fez a recuperação do dia, de 21º ao segundo lugar, e Isack Hadjar completou o pódio da Red Bull.", "fonte": "Formula1.com / FIA"},
+    {"categoria": "F1", "titulo": "Mercedes é campeã de construtores com duas etapas de sobra", "resumo": "Com Russell em 4º e Antonelli em 5º no Brasil, a Mercedes garantiu o título de equipes de 2026, o nono da história. Antonelli já tinha fechado o título de pilotos no México.", "fonte": "Formula1.com / FIA / Crash.net"},
+    {"categoria": "F1", "titulo": "Final no Oriente Médio confirmado e Imola dispensada", "resumo": "A F1 avisou que a temporada termina mesmo no Catar (29/11) e em Abu Dhabi (6/12). Imola, reserva para o fim de ano, foi liberada. A categoria segue monitorando a situação na região.", "fonte": "RACER / PlanetF1"},
+    {"categoria": "MotoGP", "titulo": "Bezzecchi vence no Catar; Márquez a um passo do 10º título", "resumo": "Marco Bezzecchi ganhou o GP do Catar. Marc Márquez lidera com 431 pontos, 60 à frente de Jorge Martín, e pode confirmar o décimo título mundial já em Portimão.", "fonte": "Crash.net / MotoGP101"},
+    {"categoria": "Nascar", "titulo": "Kyle Larson é bicampeão seguido da Nascar Cup", "resumo": "Larson garantiu o título ainda no primeiro estágio em Homestead, após quebra de motor de Chase Briscoe. É o terceiro título dele e o primeiro bi consecutivo desde Jimmie Johnson. Ryan Blaney venceu a corrida.", "fonte": "Heavy / Racing News"},
+    {"categoria": "Stock Car", "titulo": "Felipe Baptista vence a Corrida do Milhão; decisão em Interlagos", "resumo": "Baptista (Mitsubishi) venceu no Velopark, à frente de Julio Campos e Nelson Piquet Jr. Felipe Fraga foi 7º, lidera com 124 pontos de vantagem e precisa de 14 pontos na final em Interlagos.", "fonte": "Autoracing"}
+  ]
+}
