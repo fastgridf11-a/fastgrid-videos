@@ -2,7 +2,8 @@
 
 Vídeos do FastGrid hospedados para postagem automática no Instagram (Reels).
 
-- `videos/`: arquivos finais (.mp4, 9:16)
+- `videos/`: arquivos finais (.mp4, 9:16), nomeados com a data de publicação no Instagram
+- `videos/legendas/`: legenda de cada vídeo (mesmo nome, .txt), pronta pra repostar no TikTok/YouTube
 
 ## noticias/
 
