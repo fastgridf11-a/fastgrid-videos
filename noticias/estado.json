@@ -1,4 +1,27 @@
 {
-  "publicadas": [],
+  "publicadas": [
+    {
+      "data": "2026-11-16",
+      "tipo": "semanal",
+      "pasta": "noticias/posts/2026-11-16_semanal",
+      "media_id": "17894018943453097",
+      "titulos": [
+        "Norris vence na chuva e Verstappen sai de 21º para 2º",
+        "Mercedes é campeã de construtores com duas etapas de sobra",
+        "Final no Oriente Médio confirmado e Imola dispensada",
+        "Bezzecchi vence no Catar; Márquez a um passo do 10º título",
+        "Kyle Larson é bicampeão seguido da Nascar Cup",
+        "Felipe Baptista vence a Corrida do Milhão; decisão em Interlagos"
+      ],
+      "fontes": [
+        "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
+        "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship",
+        "https://racer.com/2026/11/10/f1-stands-down-imola-as-back-up-race-still-targeting-qatar-and-abu-dhabi-finale",
+        "https://www.crash.net/motogp/results/1109827/1/qatar-new-2026-motogp-world-championship-standings",
+        "https://heavy.com/sports/nascar/kyle-larson-2026-nascar-championship/",
+        "https://www.autoracing.com.br/felipe-baptista-vence-corrida-do-milhao-e-decisao-fica-para-interlagos/"
+      ]
+    }
+  ],
   "pendentes": []
 }
