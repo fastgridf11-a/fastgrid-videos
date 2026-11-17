@@ -4,6 +4,7 @@ Vídeos do FastGrid hospedados para postagem automática no Instagram (Reels).
 
 - `videos/`: arquivos finais (.mp4, 9:16), nomeados com a data de publicação no Instagram
 - `videos/legendas/`: legenda de cada vídeo (mesmo nome, .txt), pronta pra repostar no TikTok/YouTube
+- `longos/`: vídeos longos do YouTube (16:9), com thumbnail e texto (título, descrição com capítulos e tags). Os cortes de cada longo ficam em `videos/` com o nome `<data>_<tema>_corteNN`.
 
 ## noticias/
 
