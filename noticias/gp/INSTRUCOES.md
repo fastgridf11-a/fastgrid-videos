@@ -19,7 +19,7 @@ Cada sessão tem uma tarefa agendada que roda ~35 min depois do fim previsto (co
 - Nomes de equipe curtos: McLaren, Ferrari, Mercedes, Red Bull, Racing Bulls, Aston Martin, Alpine, Williams, Haas, Audi, Cadillac.
 
 ## 3. Montar o post
-- JSON tipo `sessao` (ver docstring). `pasta`: `noticias/gp/<pasta-do-gp>/<NN_sigla>` (ex.: `noticias/gp/2026-22-las-vegas/01_tl1`).
+- JSON tipo `sessao` (ver docstring). `pasta`: `noticias/gp/<pasta-do-gp>/<NN_sigla>` (ex.: `noticias/gp/2026-las-vegas/01_tl1`).
   - `sessao`: "Treino Livre 1", "Treino Livre 2", "Treino Livre 3", "Sprint Qualifying", "Sprint", "Classificação", "Corrida".
   - `sigla`: TL1, TL2, TL3, SQ, SPRINT, CLASSIF, CORRIDA.
   - `eh_corrida`: true na Corrida e na Sprint. `eh_classificacao`: true na Classificação e no Sprint Qualifying.

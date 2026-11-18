@@ -21,7 +21,7 @@ Urgente  -> 01_urgente.jpg (um card só com a primeira notícia).
 Sessão de GP (treino, sprint, classificação, corrida) -> tipo "sessao":
 {
   "tipo": "sessao",
-  "pasta": "noticias/gp/2026-22-las-vegas/03_tl3",
+  "pasta": "noticias/gp/2026-las-vegas/03_tl3",
   "gp": "GP de Las Vegas",
   "sessao": "Treino Livre 3",          # título grande da capa
   "sigla": "TL3",                      # TL1 TL2 TL3 SQ SPRINT CLASSIF CORRIDA
