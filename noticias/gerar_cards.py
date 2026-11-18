@@ -17,6 +17,28 @@ Formato do JSON:
 
 Semanal  -> 01_capa.jpg, 02..NN (um card por notícia), último card de chamada.
 Urgente  -> 01_urgente.jpg (um card só com a primeira notícia).
+
+Sessão de GP (treino, sprint, classificação, corrida) -> tipo "sessao":
+{
+  "tipo": "sessao",
+  "pasta": "noticias/gp/2026-22-las-vegas/03_tl3",
+  "gp": "GP de Las Vegas",
+  "sessao": "Treino Livre 3",          # título grande da capa
+  "sigla": "TL3",                      # TL1 TL2 TL3 SQ SPRINT CLASSIF CORRIDA
+  "eh_corrida": false,                 # true na corrida e na sprint (capa "PÓDIO", tabela "RESULTADO")
+  "eh_classificacao": false,           # true na classificação e na sprint quali (tabela "GRID DE LARGADA")
+  "gancho": "Frase curta da capa",
+  "resultado": [                       # todos os carros, na ordem oficial
+    {"pos": 1, "piloto": "Lando Norris", "equipe": "McLaren", "tempo": "1:33.456"},
+    {"pos": 2, "piloto": "Gabriel Bortoleto", "equipe": "Audi", "tempo": "+0.123", "br": true},
+    {"pos": "NC", "piloto": "...", "equipe": "...", "tempo": "Abandono"}
+  ],
+  "nota_tabela": "Opcional: punições, etc. (aparece embaixo da última tabela)",
+  "destaques": ["2 a 4 frases curtas"],
+  "pergunta": "Pergunta do card final",
+  "fonte": "Formula1.com / FIA"
+}
+Sessão -> 01_capa.jpg, 02/03_tabela.jpg (até 11 pilotos por card), destaques, final.
 """
 import json
 import os
@@ -184,6 +206,188 @@ def card_final():
     return img
 
 
+# ---------------------------------------------------------------------------
+# Posts de fim de semana de GP (tipo "sessao")
+# ---------------------------------------------------------------------------
+
+CORES_EQUIPE = {
+    "mclaren": (255, 128, 0),
+    "ferrari": (220, 0, 40),
+    "mercedes": (39, 244, 210),
+    "red bull": (54, 113, 198),
+    "racing bulls": (102, 146, 255),
+    "aston martin": (34, 153, 113),
+    "alpine": (0, 147, 204),
+    "williams": (100, 196, 255),
+    "haas": (182, 186, 189),
+    "audi": (245, 70, 40),
+    "cadillac": (200, 170, 100),
+}
+BR_FUNDO = (52, 8, 8)
+LINHA_ALT = (20, 20, 20)
+
+
+def cor_equipe(equipe):
+    e = (equipe or "").lower()
+    # "racing bulls" antes de "red bull"
+    for chave in sorted(CORES_EQUIPE, key=len, reverse=True):
+        if chave in e:
+            return CORES_EQUIPE[chave]
+    return (120, 120, 120)
+
+
+def cabecalho_gp(d, gp, sigla, pagina=None):
+    y = tag(d, MARGEM, 70, gp.upper(), tam=32)
+    f = fonte("black", 32)
+    x = MARGEM + d.textlength(gp.upper(), font=f) + 36 + 14
+    tag(d, x, 70, sigla.upper(), cor=(60, 60, 60), tam=32)
+    if pagina:
+        f2 = fonte("bold", 30)
+        d.text((W - MARGEM - d.textlength(pagina, font=f2), 82), pagina, font=f2, fill=TEXTO2)
+    return y
+
+
+def nome_curto(nome):
+    partes = nome.split()
+    return partes[-1].upper() if partes else nome.upper()
+
+
+def card_sessao_capa(post):
+    img, d = base()
+    res = post["resultado"]
+    y = cabecalho_gp(d, post["gp"], post["sigla"]) + 50
+    largura = W - 2 * MARGEM
+    f, linhas, _ = caber(d, post["sessao"].upper(), "black", 130, 80, largura, 2)
+    y = escrever(d, MARGEM, y, linhas, f, BRANCO, entre=1.0)
+    y += 20
+    rotulo = "PÓDIO" if post.get("eh_corrida") else ("TOP 3" if not post.get("eh_classificacao") else "LARGAM NA FRENTE")
+    frot = fonte("black", 34)
+    d.text((MARGEM, y), rotulo, font=frot, fill=VERMELHO)
+    xr = MARGEM + d.textlength(rotulo, font=frot) + 20
+    d.rectangle([xr, y + 16, W - MARGEM, y + 20], fill=VERMELHO)
+    y += 64
+    for r in res[:3]:
+        d.rectangle([MARGEM, y, W - MARGEM, y + 130], fill=CINZA)
+        d.rectangle([MARGEM, y, MARGEM + 12, y + 130], fill=cor_equipe(r["equipe"]))
+        fpos = fonte("black", 96)
+        d.text((MARGEM + 40, y + 10), str(r["pos"]), font=fpos, fill=VERMELHO)
+        fn = fonte("black", 58)
+        d.text((MARGEM + 150, y + 14), r["piloto"].upper() if d.textlength(r["piloto"].upper(), font=fn) < 560 else nome_curto(r["piloto"]), font=fn, fill=BRANCO)
+        fe = fonte("semi", 30)
+        d.text((MARGEM + 152, y + 84), r["equipe"], font=fe, fill=TEXTO2)
+        ft = fonte("bold", 36)
+        t = r.get("tempo", "")
+        d.text((W - MARGEM - 30 - d.textlength(t, font=ft), y + 80), t, font=ft, fill=BRANCO)
+        y += 148
+    y += 20
+    espaco = H - 260 - y
+    if post.get("gancho") and espaco > 60:
+        f, linhas, _ = caber(d, post["gancho"], "bold", 46, 34, largura, max(1, espaco // 56))
+        escrever(d, MARGEM, y, linhas, f, BRANCO, entre=1.18)
+    f = fonte("semi", 32)
+    d.text((MARGEM, H - 190), "Resultado completo  →  arrasta pro lado", font=f, fill=TEXTO2)
+    marca(d)
+    return img
+
+
+def card_sessao_tabela(post, linhas_res, pagina, ultima=True):
+    img, d = base()
+    y = cabecalho_gp(d, post["gp"], post["sigla"], pagina) + 40
+    titulo = post.get("titulo_tabela") or ("RESULTADO" if post.get("eh_corrida") else ("GRID DE LARGADA" if post.get("eh_classificacao") else "TEMPOS"))
+    d.text((MARGEM, y), titulo, font=fonte("black", 72), fill=BRANCO)
+    y += 96
+    alt = 76
+    for i, r in enumerate(linhas_res):
+        br = r.get("br")
+        fundo = BR_FUNDO if br else (LINHA_ALT if i % 2 == 0 else PRETO)
+        d.rectangle([MARGEM - 20, y, W - MARGEM + 20, y + alt - 4], fill=fundo)
+        fpos = fonte("black", 40)
+        pos = str(r["pos"])
+        d.text((MARGEM + 40 - d.textlength(pos, font=fpos) / 2, y + 14), pos, font=fpos,
+               fill=VERMELHO if str(r["pos"]) in ("1", "2", "3") else BRANCO)
+        d.rectangle([MARGEM + 90, y + 12, MARGEM + 98, y + alt - 16], fill=cor_equipe(r["equipe"]))
+        fn = fonte("bold", 36)
+        nome = r["piloto"]
+        d.text((MARGEM + 118, y + 6), nome, font=fn, fill=BRANCO)
+        fe = fonte("regular", 24)
+        d.text((MARGEM + 119, y + 45), r["equipe"], font=fe, fill=(150, 150, 150))
+        if br:
+            fb = fonte("black", 22)
+            xb = MARGEM + 118 + d.textlength(nome, font=fn) + 16
+            d.rectangle([xb, y + 14, xb + 46, y + 42], fill=VERMELHO)
+            d.text((xb + 8, y + 16), "BR", font=fb, fill=BRANCO)
+        ft = fonte("semi", 34)
+        t = r.get("tempo", "")
+        d.text((W - MARGEM - d.textlength(t, font=ft), y + 16), t, font=ft, fill=BRANCO if t[:1] != "+" else TEXTO2)
+        y += alt
+    rodape = []
+    if post.get("nota_tabela") and ultima:
+        rodape.append(post["nota_tabela"])
+    if post.get("fonte"):
+        rodape.append("Fonte: " + post["fonte"])
+    f = fonte("regular", 25)
+    y += 12
+    for txt in rodape:
+        for l in quebrar(d, txt, f, W - 2 * MARGEM)[:2]:
+            d.text((MARGEM, y), l, font=f, fill=(140, 140, 140))
+            y += 32
+    marca(d)
+    return img
+
+
+def card_sessao_destaques(post):
+    img, d = base()
+    y = cabecalho_gp(d, post["gp"], post["sigla"]) + 50
+    d.text((MARGEM, y), "DESTAQUES", font=fonte("black", 96), fill=BRANCO)
+    y += 140
+    largura = W - 2 * MARGEM - 60
+    itens = post["destaques"][:4]
+    espaco_total = H - 280 - y
+    por_item = espaco_total // max(1, len(itens))
+    for txt in itens:
+        d.rectangle([MARGEM, y + 14, MARGEM + 24, y + 38], fill=VERMELHO)
+        max_l = max(1, (por_item - 30) // 56)
+        f, linhas, t = caber(d, txt, "bold", 46, 32, largura, max_l)
+        yy = escrever(d, MARGEM + 60, y, linhas, f, BRANCO, entre=1.2)
+        y = max(yy + 34, y + 70)
+    marca(d)
+    return img
+
+
+def card_sessao_final(post):
+    img, d = base()
+    largura = W - 2 * MARGEM
+    y = 360
+    f, linhas, _ = caber(d, post.get("pergunta", "O que você achou?").upper(), "black", 110, 66, largura, 5)
+    y = escrever(d, MARGEM, y, linhas, f, BRANCO, entre=1.05)
+    y += 50
+    d.text((MARGEM, y), "Comenta aí", font=fonte("bold", 50), fill=VERMELHO)
+    y += 140
+    f = fonte("semi", 40)
+    d.text((MARGEM, y), f"Siga o {HANDLE} pra acompanhar", font=f, fill=TEXTO2)
+    d.text((MARGEM, y + 56), "o fim de semana inteiro.", font=f, fill=TEXTO2)
+    marca(d)
+    return img
+
+
+def gerar_sessao(post, pasta):
+    res = post["resultado"]
+    if len(res) < 3 or not post.get("destaques"):
+        sys.exit("A sessão precisa de pelo menos 3 linhas em resultado e de destaques.")
+    saidas = [salvar(card_sessao_capa(post), pasta, "01_capa.jpg")]
+    meio = (len(res) + 1) // 2 if len(res) > 11 else len(res)
+    blocos = [res[:meio], res[meio:]] if meio < len(res) else [res]
+    n = 2
+    for b in blocos:
+        pagina = f"{res.index(b[0]) + 1}–{res.index(b[-1]) + 1} de {len(res)}"
+        saidas.append(salvar(card_sessao_tabela(post, b, pagina, b is blocos[-1]), pasta, f"{n:02d}_tabela.jpg"))
+        n += 1
+    saidas.append(salvar(card_sessao_destaques(post), pasta, f"{n:02d}_destaques.jpg"))
+    n += 1
+    saidas.append(salvar(card_sessao_final(post), pasta, f"{n:02d}_final.jpg"))
+    return saidas
+
+
 def salvar(img, pasta, nome):
     caminho = os.path.join(pasta, nome)
     img.save(caminho, "JPEG", quality=90, optimize=True)
@@ -195,9 +399,11 @@ def main():
         post = json.load(fh)
     pasta = post["pasta"]
     os.makedirs(pasta, exist_ok=True)
-    noticias = post["noticias"]
+    noticias = post.get("noticias", [])
     saidas = []
-    if post["tipo"] == "urgente":
+    if post["tipo"] == "sessao":
+        saidas = gerar_sessao(post, pasta)
+    elif post["tipo"] == "urgente":
         saidas.append(salvar(card_noticia(noticias[0], urgente=True), pasta, "01_urgente.jpg"))
     else:
         if not 2 <= len(noticias) <= 8:
