@@ -23,5 +23,16 @@
       ]
     }
   ],
-  "pendentes": []
+  "pendentes": [
+    {
+      "data_hora": "2026-11-18T20:25-03:00",
+      "titulo": "Cadillac confirma Bottas em 2027; Herta fica de fora",
+      "fontes": [
+        "https://www.skysports.com/f1/news/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix",
+        "https://www.crash.net/f1/news/1110177/1/cadillac-finally-confirms-f1-2027-driver-line-after-speculation",
+        "https://www.tsn.ca/motorsports/formula-1/article/cadillac-locks-in-bottas-for-2027-passes-on-american-herta-ahead-of-las-vegas-gp/"
+      ],
+      "pasta": "noticias/posts/2026-11-18-20h_urgente"
+    }
+  ]
 }
