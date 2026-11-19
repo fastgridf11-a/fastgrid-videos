@@ -1,6 +1,6 @@
 # Boatos no GP — 19/11/2026 (semana de 13 a 19 de novembro)
 
-Status: aguardando aprovação do Gabriel.
+Status: aprovado pelo Gabriel em 19/11 (com o item 6 incluído a pedido dele).
 
 ## Itens
 
@@ -9,8 +9,9 @@ Status: aguardando aprovação do Gabriel.
 3. **OPINIÃO** — Fernando Alonso e Sergio Pérez disseram ter "100%" de certeza de que não estarão no grid quando os motores V8 voltarem.
 4. **OPINIÃO** — Pérez cobrou a Cadillac: na visão dele, não há espaço no time para quem só está feliz de estar ali, e a operação andou fraca nas últimas provas.
 5. **CONFIRMADO (MotoGP)** — Marc Márquez (Ducati) chega ao GP de Portugal (Portimão, 20 a 22/11) com 431 pontos, 60 à frente de Jorge Martín (Aprilia). Se vencer a sprint de sábado (21/11), garante o 8º título na classe rainha.
+6. **CONFIRMADO (MotoGP)** — Desfalques em Portimão: Bagnaia (fratura dupla no pé direito na sprint do Catar) é substituído por Lecuona; Joan Mir segue em recuperação e dá lugar a Jake Dixon (Honda); Toprak Razgatlioglu (Pramac, lesão no ombro) perde as duas últimas etapas e o teste de Valência.
 
-## Narração (193 palavras, ~1min10 de vídeo)
+## Narração (≈230 palavras, ~1min20 de vídeo)
 
 Boatos no GP. Teve treta fora da pista em Las Vegas, e a MotoGP pode ter campeão neste fim de semana.
 
@@ -24,6 +25,8 @@ E Pérez ainda mandou recado pra Cadillac: na opinião dele, não tem espaço no
 
 Na MotoGP, é confirmado: Marc Márquez chega a Portimão sessenta pontos à frente de Jorge Martín. Se vencer a sprint de sábado, é campeão pela oitava vez na classe rainha.
 
+E o grid chega desfalcado em Portugal: Bagnaia fraturou o pé direito na sprint do Catar e dá lugar a Lecuona. Joan Mir segue em recuperação e será substituído por Jake Dixon. E Toprak Razgatlioglu, com lesão no ombro, está fora do resto da temporada.
+
 E aí, Bearman fica na Haas ou muda de ares? Comenta aí.
 
 ## Textos de tela
@@ -36,6 +39,7 @@ E aí, Bearman fica na Haas ou muda de ares? Comenta aí.
 | 3 | OPINIÃO | ALONSO E PÉREZ: "100% FORA" DA ERA V8 | Os dois descartam correr com os novos V8 |
 | 4 | OPINIÃO | PÉREZ COBRA A CADILLAC | "Não tem espaço pra quem só está feliz de estar aqui" |
 | 5 | CONFIRMADO | MÁRQUEZ A UMA SPRINT DO TÍTULO | MotoGP · 60 pontos à frente de Martín · Portimão |
+| 6 | CONFIRMADO | GRID DESFALCADO EM PORTIMÃO | Bagnaia → Lecuona · Mir → Dixon · Toprak fora |
 | Final | — | BEARMAN FICA NA HAAS? | Comenta aí · @fast_grid |
 
 Visual: fundo preto, faixas diagonais cinza, barra vermelha no topo, fonte Inter, marca FAST GRID e @fast_grid (identidade de noticias/gerar_cards.py). Selos: CONFIRMADO (verde sobre preto ou branco), BOATO (vermelho), OPINIÃO (branco/cinza). Sem fotos nem imagens de transmissão.

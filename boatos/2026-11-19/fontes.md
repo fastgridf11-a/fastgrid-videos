@@ -23,8 +23,11 @@
 - Paultan (19/11): https://paultan.org/2026/11/19/marc-marquez-to-clinch-eighth-motogp-title-in-portugal/
 - Grande Prêmio (09/11, cenários e pontuação 431 x 371): https://grandepremio.com/en/motogp/how-can-marc-marquez-win-the-2026-motogp-title-in-portugal-all-championship-scenarios/
 
+## 6. CONFIRMADO — Desfalques na MotoGP em Portimão
+- MotoGP.com (18/11, Dixon no lugar de Mir): https://www.motogp.com/en/news/2026/11/18/dixon-replaces-mir-at-the-portuguese-gp/1185683
+- MotoGP.com, últimas notícias (16 a 18/11: Lecuona no lugar de Bagnaia; Razgatlioglu fora das duas últimas etapas): https://www.motogp.com/en/news/latest-news
+
 ## Descartados
 - Racing Bulls confirma Lawson e Lindblad (12/11, fora da janela de 7 dias).
 - Cadillac confirma Bottas para 2027 (já saiu como urgente no canal em 18/11).
-- MotoGP: desfalques de Mir, Bagnaia e Razgatlioglu (assunto de saúde/lesão, evitado).
 - IndyCar: OpenAI no lugar da DHL no carro de Palou em 2027 (Motorsport Week, 18/11) — só uma fonte; Hocevar (NASCAR) quer correr a Indy 500, mas não em 2027 (Jayski/SBJ, 16/11).
