@@ -4,12 +4,12 @@
  "blocos": [
   {
    "tipo": "abertura",
-   "fim": 6.32,
+   "fim": 7.1,
    "narracao": "Boatos no GP. Teve treta fora da pista em Las Vegas, e a MotoGP pode ter campeão neste fim de semana."
   },
   {
    "tipo": "item",
-   "fim": 24.28,
+   "fim": 24.42,
    "narracao": "Confirmado: a FIA cassou a credencial de um jornalista do Daily Mail até o fim da temporada, depois de uma coluna pesada contra Charles Leclerc. O jornal respondeu anunciando boicote à Fórmula 1. Leclerc disse que estranhou as palavras, mas garante que não teve nada a ver com a punição.",
    "selo": "CONFIRMADO",
    "categoria": "F1",
@@ -18,7 +18,7 @@
   },
   {
    "tipo": "item",
-   "fim": 38.68,
+   "fim": 38.17,
    "narracao": "Boato: Oliver Bearman segue sem contrato pra dois mil e vinte e sete, e a vaga dele na Haas é a última sem anúncio. Segundo a imprensa inglesa, a conversa entre o empresário dele e a Ferrari travou. O piloto se disse decepcionado.",
    "selo": "BOATO",
    "categoria": "F1",
@@ -27,7 +27,7 @@
   },
   {
    "tipo": "item",
-   "fim": 45.25,
+   "fim": 45.05,
    "narracao": "Opinião: Alonso e Pérez garantem, cem por cento, que não vão estar no grid quando os motores V8 voltarem.",
    "selo": "OPINIÃO",
    "categoria": "F1",
@@ -36,7 +36,7 @@
   },
   {
    "tipo": "item",
-   "fim": 52.63,
+   "fim": 52.13,
    "narracao": "E Pérez ainda mandou recado pra Cadillac: na opinião dele, não tem espaço no time pra quem só está feliz de estar ali.",
    "selo": "OPINIÃO",
    "categoria": "F1",
@@ -45,7 +45,7 @@
   },
   {
    "tipo": "item",
-   "fim": 63.27,
+   "fim": 63.05,
    "narracao": "Na MotoGP, é confirmado: Marc Márquez chega a Portimão sessenta pontos à frente de Jorge Martín. Se vencer a sprint de sábado, é campeão pela oitava vez na classe rainha.",
    "selo": "CONFIRMADO",
    "categoria": "MotoGP",
@@ -54,7 +54,7 @@
   },
   {
    "tipo": "item",
-   "fim": 78.92,
+   "fim": 78.45,
    "narracao": "E o grid chega desfalcado em Portugal: Bagnaia fraturou o pé direito na sprint do Catar e dá lugar a Lecuona. Joan Mir segue em recuperação e será substituído por Jake Dixon. E Toprak Razgatlioglu, com lesão no ombro, está fora do resto da temporada.",
    "selo": "CONFIRMADO",
    "categoria": "MotoGP",
