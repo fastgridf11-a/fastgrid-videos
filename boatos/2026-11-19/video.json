@@ -1,0 +1,71 @@
+{
+ "periodo": "Semana de 13 a 19/nov",
+ "gancho": "Treta em Las Vegas e a MotoGP pode ter campeão",
+ "blocos": [
+  {
+   "tipo": "abertura",
+   "fim": 6.32,
+   "narracao": "Boatos no GP. Teve treta fora da pista em Las Vegas, e a MotoGP pode ter campeão neste fim de semana."
+  },
+  {
+   "tipo": "item",
+   "fim": 24.28,
+   "narracao": "Confirmado: a FIA cassou a credencial de um jornalista do Daily Mail até o fim da temporada, depois de uma coluna pesada contra Charles Leclerc. O jornal respondeu anunciando boicote à Fórmula 1. Leclerc disse que estranhou as palavras, mas garante que não teve nada a ver com a punição.",
+   "selo": "CONFIRMADO",
+   "categoria": "F1",
+   "titulo": "FIA bane jornalista após coluna contra Leclerc",
+   "apoio": "Daily Mail anuncia boicote à F1 · Leclerc: \"não tive nada a ver\""
+  },
+  {
+   "tipo": "item",
+   "fim": 38.68,
+   "narracao": "Boato: Oliver Bearman segue sem contrato pra dois mil e vinte e sete, e a vaga dele na Haas é a última sem anúncio. Segundo a imprensa inglesa, a conversa entre o empresário dele e a Ferrari travou. O piloto se disse decepcionado.",
+   "selo": "BOATO",
+   "categoria": "F1",
+   "titulo": "Bearman sem contrato pra 2027",
+   "apoio": "Última vaga sem anúncio · conversa com a Ferrari travou, diz a imprensa inglesa"
+  },
+  {
+   "tipo": "item",
+   "fim": 45.25,
+   "narracao": "Opinião: Alonso e Pérez garantem, cem por cento, que não vão estar no grid quando os motores V8 voltarem.",
+   "selo": "OPINIÃO",
+   "categoria": "F1",
+   "titulo": "Alonso e Pérez: \"100% fora\" da era V8",
+   "apoio": "Os dois descartam estar no grid quando os V8 voltarem"
+  },
+  {
+   "tipo": "item",
+   "fim": 52.63,
+   "narracao": "E Pérez ainda mandou recado pra Cadillac: na opinião dele, não tem espaço no time pra quem só está feliz de estar ali.",
+   "selo": "OPINIÃO",
+   "categoria": "F1",
+   "titulo": "Pérez cobra a Cadillac",
+   "apoio": "\"Não tem espaço pra quem só está feliz de estar aqui\""
+  },
+  {
+   "tipo": "item",
+   "fim": 63.27,
+   "narracao": "Na MotoGP, é confirmado: Marc Márquez chega a Portimão sessenta pontos à frente de Jorge Martín. Se vencer a sprint de sábado, é campeão pela oitava vez na classe rainha.",
+   "selo": "CONFIRMADO",
+   "categoria": "MotoGP",
+   "titulo": "Márquez a uma sprint do título",
+   "apoio": "60 pontos à frente de Martín · Portimão, sábado (21/11)"
+  },
+  {
+   "tipo": "item",
+   "fim": 78.92,
+   "narracao": "E o grid chega desfalcado em Portugal: Bagnaia fraturou o pé direito na sprint do Catar e dá lugar a Lecuona. Joan Mir segue em recuperação e será substituído por Jake Dixon. E Toprak Razgatlioglu, com lesão no ombro, está fora do resto da temporada.",
+   "selo": "CONFIRMADO",
+   "categoria": "MotoGP",
+   "titulo": "Grid desfalcado em Portimão",
+   "apoio": "Bagnaia → Lecuona · Mir → Jake Dixon · Toprak fora do resto do ano"
+  },
+  {
+   "tipo": "final",
+   "fim": 82.36,
+   "narracao": "E aí, Bearman fica na Haas ou muda de ares? Comenta aí.",
+   "titulo": "Bearman fica na Haas?"
+  }
+ ]
+}
