@@ -8,30 +8,34 @@ Status: aguardando aprovação do Gabriel.
 2. **BOATO** — Oliver Bearman ainda não tem contrato para 2027 (a dele na Haas é a última vaga sem anúncio). Segundo o The Race, as conversas entre o empresário dele e a Ferrari não avançaram; ele se disse "bem decepcionado".
 3. **OPINIÃO** — Fernando Alonso e Sergio Pérez disseram ter "100%" de certeza de que não estarão no grid quando os motores V8 voltarem.
 4. **OPINIÃO** — Pérez cobrou a Cadillac: na visão dele, não há espaço no time para quem só está feliz de estar ali, e a operação andou fraca nas últimas provas.
+5. **CONFIRMADO (MotoGP)** — Marc Márquez (Ducati) chega ao GP de Portugal (Portimão, 20 a 22/11) com 431 pontos, 60 à frente de Jorge Martín (Aprilia). Se vencer a sprint de sábado (21/11), garante o 8º título na classe rainha.
 
-## Narração (≈125 palavras)
+## Narração (193 palavras, ~1min10 de vídeo)
 
-Boatos no GP. Teve treta fora da pista em Las Vegas.
+Boatos no GP. Teve treta fora da pista em Las Vegas, e a MotoGP pode ter campeão neste fim de semana.
 
-Confirmado: a FIA cassou a credencial de um jornalista do Daily Mail até o fim da temporada, depois de uma coluna pesada contra Leclerc. O jornal anunciou boicote à Fórmula 1. Leclerc estranhou as palavras, mas diz que não teve nada a ver com a punição.
+Confirmado: a FIA cassou a credencial de um jornalista do Daily Mail até o fim da temporada, depois de uma coluna pesada contra Charles Leclerc. O jornal respondeu anunciando boicote à Fórmula 1. Leclerc disse que estranhou as palavras, mas garante que não teve nada a ver com a punição.
 
-Boato: Oliver Bearman segue sem contrato pra dois mil e vinte e sete. Segundo a imprensa inglesa, a conversa com a Ferrari travou. Ele se disse decepcionado.
+Boato: Oliver Bearman segue sem contrato pra dois mil e vinte e sete, e a vaga dele na Haas é a última sem anúncio. Segundo a imprensa inglesa, a conversa entre o empresário dele e a Ferrari travou. O piloto se disse decepcionado.
 
-Opinião: Alonso e Pérez garantem, cem por cento, que não estarão no grid quando os motores V8 voltarem.
+Opinião: Alonso e Pérez garantem, cem por cento, que não vão estar no grid quando os motores V8 voltarem.
 
-E Pérez mandou recado pra Cadillac: na opinião dele, não tem espaço pra quem só está feliz de estar ali.
+E Pérez ainda mandou recado pra Cadillac: na opinião dele, não tem espaço no time pra quem só está feliz de estar ali.
 
-Bearman fica na Haas ou muda de ares? Comenta aí.
+Na MotoGP, é confirmado: Marc Márquez chega a Portimão sessenta pontos à frente de Jorge Martín. Se vencer a sprint de sábado, é campeão pela oitava vez na classe rainha.
+
+E aí, Bearman fica na Haas ou muda de ares? Comenta aí.
 
 ## Textos de tela
 
 | Bloco | Selo | Título | Apoio |
 |---|---|---|---|
-| Abertura | — | BOATOS NO GP | Semana de 13 a 19/nov |
+| Abertura | — | BOATOS NO GP | Semana de 13 a 19/nov · Las Vegas e MotoGP |
 | 1 | CONFIRMADO | FIA BANE JORNALISTA APÓS COLUNA CONTRA LECLERC | Daily Mail boicota a F1 · Leclerc: "não tive nada a ver" |
 | 2 | BOATO | BEARMAN SEM CONTRATO PRA 2027 | Conversa com a Ferrari travou, diz a imprensa inglesa |
 | 3 | OPINIÃO | ALONSO E PÉREZ: "100% FORA" DA ERA V8 | Os dois descartam correr com os novos V8 |
 | 4 | OPINIÃO | PÉREZ COBRA A CADILLAC | "Não tem espaço pra quem só está feliz de estar aqui" |
+| 5 | CONFIRMADO | MÁRQUEZ A UMA SPRINT DO TÍTULO | MotoGP · 60 pontos à frente de Martín · Portimão |
 | Final | — | BEARMAN FICA NA HAAS? | Comenta aí · @fast_grid |
 
 Visual: fundo preto, faixas diagonais cinza, barra vermelha no topo, fonte Inter, marca FAST GRID e @fast_grid (identidade de noticias/gerar_cards.py). Selos: CONFIRMADO (verde sobre preto ou branco), BOATO (vermelho), OPINIÃO (branco/cinza). Sem fotos nem imagens de transmissão.

@@ -18,7 +18,13 @@
 ## 4. OPINIÃO — Pérez cobra a Cadillac
 - The Race (19/11): https://www.the-race.com/formula-1/everything-we-learned-from-day-one-at-f1s-las-vegas-gp/
 
+## 5. CONFIRMADO — Márquez pode ser campeão da MotoGP em Portimão
+- Motorsport Week (18/11): https://www.motorsportweek.com/2026/11/18/marc-marquez-scenarios-champion-portuguesegp/
+- Paultan (19/11): https://paultan.org/2026/11/19/marc-marquez-to-clinch-eighth-motogp-title-in-portugal/
+- Grande Prêmio (09/11, cenários e pontuação 431 x 371): https://grandepremio.com/en/motogp/how-can-marc-marquez-win-the-2026-motogp-title-in-portugal-all-championship-scenarios/
+
 ## Descartados
 - Racing Bulls confirma Lawson e Lindblad (12/11, fora da janela de 7 dias).
 - Cadillac confirma Bottas para 2027 (já saiu como urgente no canal em 18/11).
-- Itens de MotoGP: páginas não abriram para conferência; ficou de fora.
+- MotoGP: desfalques de Mir, Bagnaia e Razgatlioglu (assunto de saúde/lesão, evitado).
+- IndyCar: OpenAI no lugar da DHL no carro de Palou em 2027 (Motorsport Week, 18/11) — só uma fonte; Hocevar (NASCAR) quer correr a Indy 500, mas não em 2027 (Jayski/SBJ, 16/11).
