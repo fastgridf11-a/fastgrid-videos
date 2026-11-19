@@ -9,15 +9,15 @@ Status: aguardando aprovação do Gabriel.
 3. **OPINIÃO** — Fernando Alonso e Sergio Pérez disseram ter "100%" de certeza de que não estarão no grid quando os motores V8 voltarem.
 4. **OPINIÃO** — Pérez cobrou a Cadillac: na visão dele, não há espaço no time para quem só está feliz de estar ali, e a operação andou fraca nas últimas provas.
 
-## Narração (≈115 palavras)
+## Narração (≈125 palavras)
 
-Boatos no GP. A semana de Las Vegas começou com treta fora da pista.
+Boatos no GP. Teve treta fora da pista em Las Vegas.
 
-Confirmado: a FIA cassou a credencial de um jornalista do Daily Mail até o fim da temporada, depois de uma coluna pesada contra Charles Leclerc. O jornal respondeu com boicote à Fórmula 1. Leclerc disse que estranhou as palavras, mas que não teve nada a ver com a punição.
+Confirmado: a FIA cassou a credencial de um jornalista do Daily Mail até o fim da temporada, depois de uma coluna pesada contra Leclerc. O jornal anunciou boicote à Fórmula 1. Leclerc estranhou as palavras, mas diz que não teve nada a ver com a punição.
 
-Boato: Oliver Bearman segue sem contrato pra dois mil e vinte e sete. Segundo a imprensa inglesa, a conversa entre o empresário dele e a Ferrari travou. Ele se disse decepcionado.
+Boato: Oliver Bearman segue sem contrato pra dois mil e vinte e sete. Segundo a imprensa inglesa, a conversa com a Ferrari travou. Ele se disse decepcionado.
 
-Opinião: Alonso e Pérez garantem, cem por cento, que não vão estar no grid quando os motores V8 voltarem.
+Opinião: Alonso e Pérez garantem, cem por cento, que não estarão no grid quando os motores V8 voltarem.
 
 E Pérez mandou recado pra Cadillac: na opinião dele, não tem espaço pra quem só está feliz de estar ali.
 
