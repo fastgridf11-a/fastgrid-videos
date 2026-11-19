@@ -1,6 +1,6 @@
 # Boatos no GP — 19/11/2026 (semana de 13 a 19 de novembro)
 
-Status: aprovado pelo Gabriel em 19/11 (com o item 6 incluído a pedido dele).
+Status: aprovado pelo Gabriel em 19/11 (com o item 6 incluído a pedido dele). Publicado no Instagram em 19/11 (media 18388770595238505). YouTube: pendente (fila do Buffer cheia).
 
 ## Itens
 
