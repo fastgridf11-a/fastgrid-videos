@@ -1,0 +1,155 @@
+{
+  "tipo": "sessao",
+  "pasta": "noticias/gp/2026-las-vegas/02_tl2",
+  "gp": "GP de Las Vegas",
+  "sessao": "Treino Livre 2",
+  "sigla": "TL2",
+  "eh_corrida": false,
+  "eh_classificacao": false,
+  "gancho": "Russell rouba a ponta no fim e Gasly surpreende em 2º",
+  "resultado": [
+    {
+      "pos": 1,
+      "piloto": "George Russell",
+      "equipe": "Mercedes",
+      "tempo": "1:47.272"
+    },
+    {
+      "pos": 2,
+      "piloto": "Pierre Gasly",
+      "equipe": "Alpine",
+      "tempo": "+0.071"
+    },
+    {
+      "pos": 3,
+      "piloto": "Charles Leclerc",
+      "equipe": "Ferrari",
+      "tempo": "+0.333"
+    },
+    {
+      "pos": 4,
+      "piloto": "Isack Hadjar",
+      "equipe": "Red Bull",
+      "tempo": "+1.135"
+    },
+    {
+      "pos": 5,
+      "piloto": "Oscar Piastri",
+      "equipe": "McLaren",
+      "tempo": "+1.181"
+    },
+    {
+      "pos": 6,
+      "piloto": "Lewis Hamilton",
+      "equipe": "Ferrari",
+      "tempo": "+1.211"
+    },
+    {
+      "pos": 7,
+      "piloto": "Lando Norris",
+      "equipe": "McLaren",
+      "tempo": "+1.565"
+    },
+    {
+      "pos": 8,
+      "piloto": "Kimi Antonelli",
+      "equipe": "Mercedes",
+      "tempo": "+1.771"
+    },
+    {
+      "pos": 9,
+      "piloto": "Franco Colapinto",
+      "equipe": "Alpine",
+      "tempo": "+1.957"
+    },
+    {
+      "pos": 10,
+      "piloto": "Fernando Alonso",
+      "equipe": "Aston Martin",
+      "tempo": "+1.959"
+    },
+    {
+      "pos": 11,
+      "piloto": "Lance Stroll",
+      "equipe": "Aston Martin",
+      "tempo": "+2.510"
+    },
+    {
+      "pos": 12,
+      "piloto": "Alexander Albon",
+      "equipe": "Williams",
+      "tempo": "+2.557"
+    },
+    {
+      "pos": 13,
+      "piloto": "Max Verstappen",
+      "equipe": "Red Bull",
+      "tempo": "+2.869"
+    },
+    {
+      "pos": 14,
+      "piloto": "Sergio Pérez",
+      "equipe": "Cadillac",
+      "tempo": "+3.159"
+    },
+    {
+      "pos": 15,
+      "piloto": "Oliver Bearman",
+      "equipe": "Haas",
+      "tempo": "+3.427"
+    },
+    {
+      "pos": 16,
+      "piloto": "Liam Lawson",
+      "equipe": "Racing Bulls",
+      "tempo": "+3.737"
+    },
+    {
+      "pos": 17,
+      "piloto": "Arvid Lindblad",
+      "equipe": "Racing Bulls",
+      "tempo": "+3.876"
+    },
+    {
+      "pos": 18,
+      "piloto": "Carlos Sainz",
+      "equipe": "Williams",
+      "tempo": "+4.299"
+    },
+    {
+      "pos": 19,
+      "piloto": "Nico Hülkenberg",
+      "equipe": "Audi",
+      "tempo": "+4.535"
+    },
+    {
+      "pos": 20,
+      "piloto": "Gabriel Bortoleto",
+      "equipe": "Audi",
+      "tempo": "+5.053",
+      "br": true
+    },
+    {
+      "pos": 21,
+      "piloto": "Valtteri Bottas",
+      "equipe": "Cadillac",
+      "tempo": "+5.522"
+    },
+    {
+      "pos": 22,
+      "piloto": "Rafael Câmara",
+      "equipe": "Haas",
+      "tempo": "+6.317",
+      "br": true
+    }
+  ],
+  "nota_tabela": "Treino começou com pista molhada e foi secando: os tempos saíram nos minutos finais.",
+  "destaques": [
+    "Pista secando no fim: Russell cravou 1:47.272 nos últimos minutos e tirou a ponta de Leclerc.",
+    "Gasly surpreendeu com a Alpine em 2º, a só 0.071s. Verstappen demorou a marcar volta e ficou em 13º.",
+    "Bandeira vermelha por detritos de plástico na pista; Alonso e Piastri escaparam na curva 5.",
+    "Brasileiros: Bortoleto (Audi) rodou no molhado e foi 20º; Câmara (Haas), estreante, foi 22º."
+  ],
+  "pergunta": "Quem chega mais forte pra classificação?",
+  "fonte": "Formula1.com / PlanetF1"
+}
