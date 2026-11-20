@@ -1,0 +1,155 @@
+{
+  "tipo": "sessao",
+  "pasta": "noticias/gp/2026-las-vegas/01_tl1",
+  "gp": "GP de Las Vegas",
+  "sessao": "Treino Livre 1",
+  "sigla": "TL1",
+  "eh_corrida": false,
+  "eh_classificacao": false,
+  "gancho": "Chuva em Vegas: TL1 termina sem tempos",
+  "resultado": [
+    {
+      "pos": 1,
+      "piloto": "Sergio Pérez",
+      "equipe": "Cadillac",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 2,
+      "piloto": "Ryo Hirakawa",
+      "equipe": "Haas",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 3,
+      "piloto": "Rafael Câmara",
+      "equipe": "Haas",
+      "tempo": "Sem tempo",
+      "br": true
+    },
+    {
+      "pos": 4,
+      "piloto": "Valtteri Bottas",
+      "equipe": "Cadillac",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 5,
+      "piloto": "Dino Beganovic",
+      "equipe": "Ferrari",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 6,
+      "piloto": "Jak Crawford",
+      "equipe": "Aston Martin",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 7,
+      "piloto": "Alexander Albon",
+      "equipe": "Williams",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 8,
+      "piloto": "Kimi Antonelli",
+      "equipe": "Mercedes",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 9,
+      "piloto": "Carlos Sainz",
+      "equipe": "Williams",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 10,
+      "piloto": "Isack Hadjar",
+      "equipe": "Red Bull",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 11,
+      "piloto": "Gabriel Bortoleto",
+      "equipe": "Audi",
+      "tempo": "Sem tempo",
+      "br": true
+    },
+    {
+      "pos": 12,
+      "piloto": "Max Verstappen",
+      "equipe": "Red Bull",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 13,
+      "piloto": "Charles Leclerc",
+      "equipe": "Ferrari",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 14,
+      "piloto": "Nico Hülkenberg",
+      "equipe": "Audi",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 15,
+      "piloto": "George Russell",
+      "equipe": "Mercedes",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 16,
+      "piloto": "Pierre Gasly",
+      "equipe": "Alpine",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 17,
+      "piloto": "Franco Colapinto",
+      "equipe": "Alpine",
+      "tempo": "Sem tempo"
+    },
+    {
+      "pos": 18,
+      "piloto": "Lando Norris",
+      "equipe": "McLaren",
+      "tempo": "Não andou"
+    },
+    {
+      "pos": 19,
+      "piloto": "Lance Stroll",
+      "equipe": "Aston Martin",
+      "tempo": "Não andou"
+    },
+    {
+      "pos": 20,
+      "piloto": "Liam Lawson",
+      "equipe": "Racing Bulls",
+      "tempo": "Não andou"
+    },
+    {
+      "pos": 21,
+      "piloto": "Arvid Lindblad",
+      "equipe": "Racing Bulls",
+      "tempo": "Não andou"
+    },
+    {
+      "pos": 22,
+      "piloto": "Oscar Piastri",
+      "equipe": "McLaren",
+      "tempo": "Não andou"
+    }
+  ],
+  "nota_tabela": "Ninguém fez volta lançada: a ordem oficial só reflete a saída para a pista, não o desempenho.",
+  "destaques": [
+    "Chuva forte e água na pista: ninguém fez volta lançada nos 60 minutos.",
+    "Só voltas de instalação com pneu de chuva; McLaren, Racing Bulls e Stroll nem saíram.",
+    "Bortoleto (Audi) fez só a instalação; Câmara (Haas) foi um dos que mais andaram: 2 voltas.",
+    "Reservas: Beganovic (Hamilton), Crawford (Alonso) e Hirakawa (Bearman). TL2 deve ser mais seco."
+  ],
+  "pergunta": "Com o TL1 perdido, quem chega mais forte pra classificação?",
+  "fonte": "Formula1.com / The Race"
+}
