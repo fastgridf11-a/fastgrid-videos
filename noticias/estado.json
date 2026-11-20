@@ -36,6 +36,14 @@
         "https://www.crash.net/f1/news/1110177/1/cadillac-finally-confirms-f1-2027-driver-line-after-speculation",
         "https://www.tsn.ca/motorsports/formula-1/article/cadillac-locks-in-bottas-for-2027-passes-on-american-herta-ahead-of-las-vegas-gp/"
       ]
+    },
+    {
+      "data": "2026-11-19",
+      "tipo": "gp",
+      "gp": "GP de Las Vegas 2026",
+      "sessao": "Treino Livre 1",
+      "pasta": "noticias/gp/2026-las-vegas/01_tl1",
+      "media_id": "17931171597223183"
     }
   ],
   "pendentes": []
