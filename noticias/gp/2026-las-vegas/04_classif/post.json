@@ -1,0 +1,155 @@
+{
+  "tipo": "sessao",
+  "pasta": "noticias/gp/2026-las-vegas/04_classif",
+  "gp": "GP de Las Vegas",
+  "sessao": "Classificação",
+  "sigla": "CLASSIF",
+  "eh_corrida": false,
+  "eh_classificacao": true,
+  "gancho": "Antonelli é o mais rápido, mas punição por troca de motor dá a pole a Verstappen",
+  "resultado": [
+    {
+      "pos": 1,
+      "piloto": "Max Verstappen",
+      "equipe": "Red Bull",
+      "tempo": "1:34.151"
+    },
+    {
+      "pos": 2,
+      "piloto": "George Russell",
+      "equipe": "Mercedes",
+      "tempo": "1:34.224"
+    },
+    {
+      "pos": 3,
+      "piloto": "Lando Norris",
+      "equipe": "McLaren",
+      "tempo": "1:34.244"
+    },
+    {
+      "pos": 4,
+      "piloto": "Isack Hadjar",
+      "equipe": "Red Bull",
+      "tempo": "1:34.592"
+    },
+    {
+      "pos": 5,
+      "piloto": "Arvid Lindblad",
+      "equipe": "Racing Bulls",
+      "tempo": "1:34.668"
+    },
+    {
+      "pos": 6,
+      "piloto": "Kimi Antonelli",
+      "equipe": "Mercedes",
+      "tempo": "1:33.893"
+    },
+    {
+      "pos": 7,
+      "piloto": "Liam Lawson",
+      "equipe": "Racing Bulls",
+      "tempo": "1:35.090"
+    },
+    {
+      "pos": 8,
+      "piloto": "Pierre Gasly",
+      "equipe": "Alpine",
+      "tempo": "1:35.105"
+    },
+    {
+      "pos": 9,
+      "piloto": "Franco Colapinto",
+      "equipe": "Alpine",
+      "tempo": "1:35.314"
+    },
+    {
+      "pos": 10,
+      "piloto": "Charles Leclerc",
+      "equipe": "Ferrari",
+      "tempo": "1:35.197"
+    },
+    {
+      "pos": 11,
+      "piloto": "Lewis Hamilton",
+      "equipe": "Ferrari",
+      "tempo": "1:35.253"
+    },
+    {
+      "pos": 12,
+      "piloto": "Nico Hülkenberg",
+      "equipe": "Audi",
+      "tempo": "1:35.460"
+    },
+    {
+      "pos": 13,
+      "piloto": "Gabriel Bortoleto",
+      "equipe": "Audi",
+      "tempo": "1:35.993",
+      "br": true
+    },
+    {
+      "pos": 14,
+      "piloto": "Alexander Albon",
+      "equipe": "Williams",
+      "tempo": "1:36.125"
+    },
+    {
+      "pos": 15,
+      "piloto": "Rafael Câmara",
+      "equipe": "Haas",
+      "tempo": "1:36.220",
+      "br": true
+    },
+    {
+      "pos": 16,
+      "piloto": "Sergio Pérez",
+      "equipe": "Cadillac",
+      "tempo": "1:37.383"
+    },
+    {
+      "pos": 17,
+      "piloto": "Oscar Piastri",
+      "equipe": "McLaren",
+      "tempo": "1:34.899"
+    },
+    {
+      "pos": 18,
+      "piloto": "Fernando Alonso",
+      "equipe": "Aston Martin",
+      "tempo": "1:37.400"
+    },
+    {
+      "pos": 19,
+      "piloto": "Valtteri Bottas",
+      "equipe": "Cadillac",
+      "tempo": "1:37.601"
+    },
+    {
+      "pos": 20,
+      "piloto": "Carlos Sainz",
+      "equipe": "Williams",
+      "tempo": "1:35.641"
+    },
+    {
+      "pos": 21,
+      "piloto": "Lance Stroll",
+      "equipe": "Aston Martin",
+      "tempo": "1:37.550"
+    },
+    {
+      "pos": 22,
+      "piloto": "Oliver Bearman",
+      "equipe": "Haas",
+      "tempo": "1:48.005"
+    }
+  ],
+  "nota_tabela": "Grid após punições por motor: Antonelli (-5), Piastri, Sainz e Stroll (-10), Bearman (fim do grid). Tempo = melhor volta na classificação.",
+  "destaques": [
+    "Antonelli fez o melhor tempo (1:33.893), mas perde 5 posições por troca de motor.",
+    "Cinco punidos por motor: Piastri cai de 7º para 17º; Sainz, Stroll e Bearman também.",
+    "Ferrari fora do Q3: Leclerc travou na curva 7 e ficou em 11º; Hamilton foi 12º.",
+    "Bortoleto caiu no Q2 e larga em 13º. Câmara rodou, ficou no Q1 por 0.071s e larga em 15º."
+  ],
+  "pergunta": "Quem vence amanhã?",
+  "fonte": "Formula1.com / RaceFans"
+}

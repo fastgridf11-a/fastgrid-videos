@@ -94,7 +94,7 @@ def caber(draw, texto, peso, maior, menor, largura, max_linhas):
     for t in range(maior, menor - 1, -4):
         f = fonte(peso, t)
         linhas = quebrar(draw, texto, f, largura)
-        if len(linhas) <= max_linhas:
+        if len(linhas) <= max_linhas and all(draw.textlength(l, font=f) <= largura for l in linhas):
             return f, linhas, t
     f = fonte(peso, menor)
     linhas = quebrar(draw, texto, f, largura)[:max_linhas]
