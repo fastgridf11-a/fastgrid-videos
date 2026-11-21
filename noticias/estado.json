@@ -52,6 +52,14 @@
       "sessao": "Treino Livre 2",
       "pasta": "noticias/gp/2026-las-vegas/02_tl2",
       "media_id": "18119270429101834"
+    },
+    {
+      "data": "2026-11-21",
+      "tipo": "gp",
+      "gp": "GP de Las Vegas 2026",
+      "sessao": "Treino Livre 3",
+      "pasta": "noticias/gp/2026-las-vegas/03_tl3",
+      "media_id": "17970558750199837"
     }
   ],
   "pendentes": []
