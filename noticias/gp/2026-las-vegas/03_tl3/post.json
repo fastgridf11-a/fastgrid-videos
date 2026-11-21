@@ -1,0 +1,155 @@
+{
+  "tipo": "sessao",
+  "pasta": "noticias/gp/2026-las-vegas/03_tl3",
+  "gp": "GP de Las Vegas",
+  "sessao": "Treino Livre 3",
+  "sigla": "TL3",
+  "eh_corrida": false,
+  "eh_classificacao": false,
+  "gancho": "Russell sobra e Mercedes faz dobradinha na pista seca",
+  "resultado": [
+    {
+      "pos": 1,
+      "piloto": "George Russell",
+      "equipe": "Mercedes",
+      "tempo": "1:34.041"
+    },
+    {
+      "pos": 2,
+      "piloto": "Kimi Antonelli",
+      "equipe": "Mercedes",
+      "tempo": "+0.911"
+    },
+    {
+      "pos": 3,
+      "piloto": "Lando Norris",
+      "equipe": "McLaren",
+      "tempo": "+0.974"
+    },
+    {
+      "pos": 4,
+      "piloto": "Charles Leclerc",
+      "equipe": "Ferrari",
+      "tempo": "+1.150"
+    },
+    {
+      "pos": 5,
+      "piloto": "Franco Colapinto",
+      "equipe": "Alpine",
+      "tempo": "+1.157"
+    },
+    {
+      "pos": 6,
+      "piloto": "Max Verstappen",
+      "equipe": "Red Bull",
+      "tempo": "+1.309"
+    },
+    {
+      "pos": 7,
+      "piloto": "Liam Lawson",
+      "equipe": "Racing Bulls",
+      "tempo": "+1.361"
+    },
+    {
+      "pos": 8,
+      "piloto": "Lewis Hamilton",
+      "equipe": "Ferrari",
+      "tempo": "+1.393"
+    },
+    {
+      "pos": 9,
+      "piloto": "Pierre Gasly",
+      "equipe": "Alpine",
+      "tempo": "+1.402"
+    },
+    {
+      "pos": 10,
+      "piloto": "Arvid Lindblad",
+      "equipe": "Racing Bulls",
+      "tempo": "+1.409"
+    },
+    {
+      "pos": 11,
+      "piloto": "Isack Hadjar",
+      "equipe": "Red Bull",
+      "tempo": "+1.452"
+    },
+    {
+      "pos": 12,
+      "piloto": "Oscar Piastri",
+      "equipe": "McLaren",
+      "tempo": "+1.763"
+    },
+    {
+      "pos": 13,
+      "piloto": "Carlos Sainz",
+      "equipe": "Williams",
+      "tempo": "+1.945"
+    },
+    {
+      "pos": 14,
+      "piloto": "Nico Hülkenberg",
+      "equipe": "Audi",
+      "tempo": "+2.350"
+    },
+    {
+      "pos": 15,
+      "piloto": "Alexander Albon",
+      "equipe": "Williams",
+      "tempo": "+2.405"
+    },
+    {
+      "pos": 16,
+      "piloto": "Gabriel Bortoleto",
+      "equipe": "Audi",
+      "tempo": "+2.706",
+      "br": true
+    },
+    {
+      "pos": 17,
+      "piloto": "Oliver Bearman",
+      "equipe": "Haas",
+      "tempo": "+2.897"
+    },
+    {
+      "pos": 18,
+      "piloto": "Rafael Câmara",
+      "equipe": "Haas",
+      "tempo": "+2.971",
+      "br": true
+    },
+    {
+      "pos": 19,
+      "piloto": "Sergio Pérez",
+      "equipe": "Cadillac",
+      "tempo": "+3.091"
+    },
+    {
+      "pos": 20,
+      "piloto": "Fernando Alonso",
+      "equipe": "Aston Martin",
+      "tempo": "+3.208"
+    },
+    {
+      "pos": 21,
+      "piloto": "Lance Stroll",
+      "equipe": "Aston Martin",
+      "tempo": "+3.640"
+    },
+    {
+      "pos": 22,
+      "piloto": "Valtteri Bottas",
+      "equipe": "Cadillac",
+      "tempo": "+3.655"
+    }
+  ],
+  "nota_tabela": "Primeiro treino com pista seca no fim de semana. Verstappen saiu investigado pelos comissários.",
+  "destaques": [
+    "No primeiro treino seco do fim de semana, Russell fez 1:34.041 e abriu 0.911s sobre Antonelli.",
+    "Pista fria e escorregadia: mais de 30 infrações de limite de pista e várias escapadas.",
+    "Verstappen (6º) saiu investigado: um lance com Colapinto e um toque com Russell na curva 14.",
+    "Brasileiros: Bortoleto (Audi) foi 16º, à frente das duas Haas; Câmara (Haas) ficou em 18º."
+  ],
+  "pergunta": "Quem chega mais forte pra classificação?",
+  "fonte": "PlanetF1 / Motorsport.com"
+}
