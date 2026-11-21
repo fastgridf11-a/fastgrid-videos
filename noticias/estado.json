@@ -1,66 +1,74 @@
 {
-  "publicadas": [
-    {
-      "data": "2026-11-16",
-      "tipo": "semanal",
-      "pasta": "noticias/posts/2026-11-16_semanal",
-      "media_id": "17894018943453097",
-      "titulos": [
-        "Norris vence na chuva e Verstappen sai de 21º para 2º",
-        "Mercedes é campeã de construtores com duas etapas de sobra",
-        "Final no Oriente Médio confirmado e Imola dispensada",
-        "Bezzecchi vence no Catar; Márquez a um passo do 10º título",
-        "Kyle Larson é bicampeão seguido da Nascar Cup",
-        "Felipe Baptista vence a Corrida do Milhão; decisão em Interlagos"
-      ],
-      "fontes": [
-        "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
-        "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship",
-        "https://racer.com/2026/11/10/f1-stands-down-imola-as-back-up-race-still-targeting-qatar-and-abu-dhabi-finale",
-        "https://www.crash.net/motogp/results/1109827/1/qatar-new-2026-motogp-world-championship-standings",
-        "https://heavy.com/sports/nascar/kyle-larson-2026-nascar-championship/",
-        "https://www.autoracing.com.br/felipe-baptista-vence-corrida-do-milhao-e-decisao-fica-para-interlagos/"
-      ]
-    },
-    {
-      "data": "2026-11-18",
-      "tipo": "urgente",
-      "status": "publicada",
-      "pasta": "noticias/posts/2026-11-18-20h_urgente",
-      "media_id": "18111259883261714",
-      "titulos": [
-        "Cadillac confirma Bottas em 2027; Herta fica de fora"
-      ],
-      "fontes": [
-        "https://www.skysports.com/f1/news/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix",
-        "https://www.crash.net/f1/news/1110177/1/cadillac-finally-confirms-f1-2027-driver-line-after-speculation",
-        "https://www.tsn.ca/motorsports/formula-1/article/cadillac-locks-in-bottas-for-2027-passes-on-american-herta-ahead-of-las-vegas-gp/"
-      ]
-    },
-    {
-      "data": "2026-11-19",
-      "tipo": "gp",
-      "gp": "GP de Las Vegas 2026",
-      "sessao": "Treino Livre 1",
-      "pasta": "noticias/gp/2026-las-vegas/01_tl1",
-      "media_id": "17931171597223183"
-    },
-    {
-      "data": "2026-11-20",
-      "tipo": "gp",
-      "gp": "GP de Las Vegas 2026",
-      "sessao": "Treino Livre 2",
-      "pasta": "noticias/gp/2026-las-vegas/02_tl2",
-      "media_id": "18119270429101834"
-    },
-    {
-      "data": "2026-11-21",
-      "tipo": "gp",
-      "gp": "GP de Las Vegas 2026",
-      "sessao": "Treino Livre 3",
-      "pasta": "noticias/gp/2026-las-vegas/03_tl3",
-      "media_id": "17970558750199837"
-    }
-  ],
-  "pendentes": []
+ "publicadas": [
+  {
+   "data": "2026-11-16",
+   "tipo": "semanal",
+   "pasta": "noticias/posts/2026-11-16_semanal",
+   "media_id": "17894018943453097",
+   "titulos": [
+    "Norris vence na chuva e Verstappen sai de 21º para 2º",
+    "Mercedes é campeã de construtores com duas etapas de sobra",
+    "Final no Oriente Médio confirmado e Imola dispensada",
+    "Bezzecchi vence no Catar; Márquez a um passo do 10º título",
+    "Kyle Larson é bicampeão seguido da Nascar Cup",
+    "Felipe Baptista vence a Corrida do Milhão; decisão em Interlagos"
+   ],
+   "fontes": [
+    "https://www.formula1.com/en/latest/article/norris-beats-verstappen-in-wet-sao-paulo-gp-thriller-as-mercedes-win-constructors-championship.7JN7MXLZf5lk5l0C3gfKGI",
+    "https://www.fia.com/news/f1-norris-triumphs-sao-paulo-mercedes-secure-2026-constructors-championship",
+    "https://racer.com/2026/11/10/f1-stands-down-imola-as-back-up-race-still-targeting-qatar-and-abu-dhabi-finale",
+    "https://www.crash.net/motogp/results/1109827/1/qatar-new-2026-motogp-world-championship-standings",
+    "https://heavy.com/sports/nascar/kyle-larson-2026-nascar-championship/",
+    "https://www.autoracing.com.br/felipe-baptista-vence-corrida-do-milhao-e-decisao-fica-para-interlagos/"
+   ]
+  },
+  {
+   "data": "2026-11-18",
+   "tipo": "urgente",
+   "status": "publicada",
+   "pasta": "noticias/posts/2026-11-18-20h_urgente",
+   "media_id": "18111259883261714",
+   "titulos": [
+    "Cadillac confirma Bottas em 2027; Herta fica de fora"
+   ],
+   "fontes": [
+    "https://www.skysports.com/f1/news/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix",
+    "https://www.crash.net/f1/news/1110177/1/cadillac-finally-confirms-f1-2027-driver-line-after-speculation",
+    "https://www.tsn.ca/motorsports/formula-1/article/cadillac-locks-in-bottas-for-2027-passes-on-american-herta-ahead-of-las-vegas-gp/"
+   ]
+  },
+  {
+   "data": "2026-11-19",
+   "tipo": "gp",
+   "gp": "GP de Las Vegas 2026",
+   "sessao": "Treino Livre 1",
+   "pasta": "noticias/gp/2026-las-vegas/01_tl1",
+   "media_id": "17931171597223183"
+  },
+  {
+   "data": "2026-11-20",
+   "tipo": "gp",
+   "gp": "GP de Las Vegas 2026",
+   "sessao": "Treino Livre 2",
+   "pasta": "noticias/gp/2026-las-vegas/02_tl2",
+   "media_id": "18119270429101834"
+  },
+  {
+   "data": "2026-11-21",
+   "tipo": "gp",
+   "gp": "GP de Las Vegas 2026",
+   "sessao": "Treino Livre 3",
+   "pasta": "noticias/gp/2026-las-vegas/03_tl3",
+   "media_id": "17970558750199837"
+  },
+  {
+   "data": "2026-11-21",
+   "tipo": "gp",
+   "gp": "GP de Las Vegas 2026",
+   "sessao": "Classificação",
+   "pasta": "noticias/gp/2026-las-vegas/04_classif",
+   "media_id": "18341488030278781"
+  }
+ ],
+ "pendentes": []
 }
