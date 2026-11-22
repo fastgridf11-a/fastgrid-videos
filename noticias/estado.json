@@ -78,5 +78,15 @@
       "media_id": "18104181575561577"
     }
   ],
-  "pendentes": []
+  "pendentes": [
+    {
+      "data_hora": "2026-11-22T20:30-03:00",
+      "titulo": "Márquez é campeão e iguala Agostini com 8 títulos",
+      "fontes": [
+        "https://www.motogp.com/en/news/2026/11/22/bezzecchi-wins-in-portugal-as-marc-marquez-finishes-p8-to-clinch-his-8th-motogp-title/1186076",
+        "https://grandepremio.com/en/motogp/marc-marquez-wins-eighth-motogp-title-in-portugal-as-bezzecchi-leads-aprilia-podium-sweep/"
+      ],
+      "pasta": "noticias/posts/2026-11-22-20h_urgente"
+    }
+  ]
 }
