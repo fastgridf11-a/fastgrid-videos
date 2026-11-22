@@ -1,0 +1,155 @@
+{
+  "tipo": "sessao",
+  "pasta": "noticias/gp/2026-las-vegas/05_corrida",
+  "gp": "GP de Las Vegas",
+  "sessao": "Corrida",
+  "sigla": "CORRIDA",
+  "eh_corrida": true,
+  "eh_classificacao": false,
+  "gancho": "Verstappen vence corrida eletrizante em Las Vegas, com os cinco primeiros separados por menos de 3 segundos",
+  "resultado": [
+    {
+      "pos": 1,
+      "piloto": "Max Verstappen",
+      "equipe": "Red Bull",
+      "tempo": "1:27:39.624"
+    },
+    {
+      "pos": 2,
+      "piloto": "Lando Norris",
+      "equipe": "McLaren",
+      "tempo": "+0.639s"
+    },
+    {
+      "pos": 3,
+      "piloto": "Oscar Piastri",
+      "equipe": "McLaren",
+      "tempo": "+1.529s"
+    },
+    {
+      "pos": 4,
+      "piloto": "Kimi Antonelli",
+      "equipe": "Mercedes",
+      "tempo": "+2.574s"
+    },
+    {
+      "pos": 5,
+      "piloto": "Pierre Gasly",
+      "equipe": "Alpine",
+      "tempo": "+2.927s"
+    },
+    {
+      "pos": 6,
+      "piloto": "Franco Colapinto",
+      "equipe": "Alpine",
+      "tempo": "+7.955s"
+    },
+    {
+      "pos": 7,
+      "piloto": "Lewis Hamilton",
+      "equipe": "Ferrari",
+      "tempo": "+12.795s"
+    },
+    {
+      "pos": 8,
+      "piloto": "Carlos Sainz",
+      "equipe": "Williams",
+      "tempo": "+12.938s"
+    },
+    {
+      "pos": 9,
+      "piloto": "George Russell",
+      "equipe": "Mercedes",
+      "tempo": "+13.192s"
+    },
+    {
+      "pos": 10,
+      "piloto": "Charles Leclerc",
+      "equipe": "Ferrari",
+      "tempo": "+17.554s"
+    },
+    {
+      "pos": 11,
+      "piloto": "Nico Hülkenberg",
+      "equipe": "Audi",
+      "tempo": "+22.720s"
+    },
+    {
+      "pos": 12,
+      "piloto": "Gabriel Bortoleto",
+      "equipe": "Audi",
+      "tempo": "+28.602s",
+      "br": true
+    },
+    {
+      "pos": 13,
+      "piloto": "Oliver Bearman",
+      "equipe": "Haas",
+      "tempo": "+28.843s"
+    },
+    {
+      "pos": 14,
+      "piloto": "Isack Hadjar",
+      "equipe": "Red Bull",
+      "tempo": "+36.488s"
+    },
+    {
+      "pos": 15,
+      "piloto": "Liam Lawson",
+      "equipe": "Racing Bulls",
+      "tempo": "+36.588s"
+    },
+    {
+      "pos": 16,
+      "piloto": "Rafael Câmara",
+      "equipe": "Haas",
+      "tempo": "+47.814s",
+      "br": true
+    },
+    {
+      "pos": 17,
+      "piloto": "Lance Stroll",
+      "equipe": "Aston Martin",
+      "tempo": "+1:08.353"
+    },
+    {
+      "pos": 18,
+      "piloto": "Valtteri Bottas",
+      "equipe": "Cadillac",
+      "tempo": "+1:11.673"
+    },
+    {
+      "pos": 19,
+      "piloto": "Fernando Alonso",
+      "equipe": "Aston Martin",
+      "tempo": "+1 volta"
+    },
+    {
+      "pos": "AB",
+      "piloto": "Arvid Lindblad",
+      "equipe": "Racing Bulls",
+      "tempo": "Abandono"
+    },
+    {
+      "pos": "AB",
+      "piloto": "Sergio Pérez",
+      "equipe": "Cadillac",
+      "tempo": "Abandono"
+    },
+    {
+      "pos": "NL",
+      "piloto": "Alexander Albon",
+      "equipe": "Williams",
+      "tempo": "Não largou"
+    }
+  ],
+  "nota_tabela": "50 voltas. Hamilton e Leclerc levaram 10s de punição durante a prova. Lawson largou do pit lane. Albon não largou (freios).",
+  "destaques": [
+    "Verstappen largou da pole e venceu por 0.639s. Piastri saiu de 17º e completou o pódio.",
+    "Russell bateu no muro na volta 48 e caiu para 9º. Hamilton e Leclerc se tocaram; ambos punidos.",
+    "Antonelli, já campeão, foi 4º (402 pts). Verstappen (304) abre 37 sobre Hamilton pelo vice.",
+    "Bortoleto foi 12º. Câmara se tocou com Pérez na volta 19 (safety car) e terminou em 16º."
+  ],
+  "pergunta": "Quem foi o piloto do dia?",
+  "fonte": "Formula1.com / Autosport / Grandprix.com"
+}
