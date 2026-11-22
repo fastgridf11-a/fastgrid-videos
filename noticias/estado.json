@@ -68,6 +68,14 @@
       "sessao": "Classificação",
       "pasta": "noticias/gp/2026-las-vegas/04_classif",
       "media_id": "18341488030278781"
+    },
+    {
+      "data": "2026-11-22",
+      "tipo": "gp",
+      "gp": "GP de Las Vegas 2026",
+      "sessao": "Corrida",
+      "pasta": "noticias/gp/2026-las-vegas/05_corrida",
+      "media_id": "18104181575561577"
     }
   ],
   "pendentes": []
