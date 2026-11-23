@@ -117,5 +117,16 @@
       ]
     }
   ],
-  "pendentes": []
+  "pendentes": [
+    {
+      "data_hora": "2026-11-23T20:35-03:00",
+      "titulo": "Stellantis tira a Peugeot do WEC e deixa a Fórmula E",
+      "fontes": [
+        "https://racer.com/2026/11/23/stellantis-confirms-closure-of-wec-formula-e-programs",
+        "https://grandepremio.com/en/endurance/wec/stellantis-shocks-motorsport-as-peugeot-exits-wec-and-citroen-opel-leave-formula-e/",
+        "https://www.motorsportweek.com/2026/11/23/stellantis-wec-formula-e-announcement/"
+      ],
+      "pasta": "noticias/posts/2026-11-23-20h_urgente"
+    }
+  ]
 }
