@@ -76,6 +76,32 @@
       "sessao": "Corrida",
       "pasta": "noticias/gp/2026-las-vegas/05_corrida",
       "media_id": "18104181575561577"
+    },
+    {
+      "data": "2026-11-23",
+      "tipo": "semanal",
+      "pasta": "noticias/posts/2026-11-23_semanal",
+      "media_id": "18113330633184190",
+      "titulos": [
+        "Verstappen segura as McLaren e vence em Las Vegas",
+        "Márquez é campeão e iguala Agostini com 8 títulos",
+        "Pérez é punido por batida em Rafael Câmara",
+        "Stellantis pode encerrar Peugeot no WEC e times da Fórmula E",
+        "Cadillac confirma Bottas em 2027; Herta fica de fora",
+        "Bateria explode e encerra a pré-temporada em Madri",
+        "Hadjar é punido por segurar o pelotão no safety car",
+        "Briga pelo vice: Verstappen abre 37 pontos"
+      ],
+      "fontes": [
+        "https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX",
+        "https://www.motogp.com/en/news/2026/11/22/bezzecchi-wins-in-portugal-as-marc-marquez-finishes-p8-to-clinch-his-8th-motogp-title/1186076",
+        "https://www.autosport.com/f1/news/hadjar-penalised-after-backing-up-russell-in-las-vegas-gp-perez-given-grid-drop-for-qatar-gp/10876867/",
+        "https://racer.com/2026/11/20/peugeot-s-wec-program-facing-the-axe-ahead-of-2027-season",
+        "https://www.formula1.com/en/latest/article/cadillac-confirm-bottas-will-remain-with-the-team-in-2027.2FzTQfliXlMixOPFUMpPB4",
+        "https://racingnews365.com/terrifying-formula-e-car-explosion-concludes-pre-season-testing",
+        "https://grandepremio.com/en/f1/hadjar-handed-10-second-penalty-after-las-vegas-gp-and-drops-to-15th/",
+        "https://www.crash.net/f1/results/1110733/1/new-f1-championship-standings-after-las-vegas-grand-prix"
+      ]
     }
   ],
   "pendentes": [
