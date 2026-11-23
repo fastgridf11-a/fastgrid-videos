@@ -1,0 +1,10 @@
+# Fontes — Resumo semanal (16 a 22 de novembro de 2026)
+
+1. F1 — Verstappen vence em Las Vegas: https://www.formula1.com/en/latest/article/verstappen-wins-exhilarating-las-vegas-grand-prix-from-norris-and-piastri.2eeBWqekZdir9mdDVK9YVX | https://www.autosport.com/f1/news/f1-las-vegas-gp-report/10876677/
+2. MotoGP — Márquez campeão: https://www.motogp.com/en/news/2026/11/22/bezzecchi-wins-in-portugal-as-marc-marquez-finishes-p8-to-clinch-his-8th-motogp-title/1186076 | https://grandepremio.com/en/motogp/marc-marquez-wins-eighth-motogp-title-in-portugal-as-bezzecchi-leads-aprilia-podium-sweep/
+3. F1 — Pérez punido (toque com Câmara): https://www.autosport.com/f1/news/hadjar-penalised-after-backing-up-russell-in-las-vegas-gp-perez-given-grid-drop-for-qatar-gp/10876867/
+4. WEC/Fórmula E — Stellantis (especulação, sem confirmação oficial até 23/11): https://racer.com/2026/11/20/peugeot-s-wec-program-facing-the-axe-ahead-of-2027-season | https://sportscar365.com/lemans/wec/peugeot-poised-for-shock-wec-withdrawal/ | https://www.racefans.net/2026/11/20/spotlight-report-claims-stellantis-will-cancel-its-peugeot-wec-and-citroen-formula-e-programmes/
+5. F1 — Cadillac confirma Bottas: https://www.formula1.com/en/latest/article/cadillac-confirm-bottas-will-remain-with-the-team-in-2027.2FzTQfliXlMixOPFUMpPB4 | https://www.skysports.com/f1/news/13611531/valtteri-bottas-cadillac-confirm-finnish-driver-to-stay-with-team-for-2027-formula-1-season-ahead-of-las-vegas-grand-prix
+6. Fórmula E — explosão de bateria no teste de Madri: https://racingnews365.com/terrifying-formula-e-car-explosion-concludes-pre-season-testing
+7. F1 — Hadjar punido: https://www.autosport.com/f1/news/hadjar-penalised-after-backing-up-russell-in-las-vegas-gp-perez-given-grid-drop-for-qatar-gp/10876867/ | https://grandepremio.com/en/f1/hadjar-handed-10-second-penalty-after-las-vegas-gp-and-drops-to-15th/
+8. F1 — Classificação após Las Vegas: https://www.crash.net/f1/results/1110733/1/new-f1-championship-standings-after-las-vegas-grand-prix

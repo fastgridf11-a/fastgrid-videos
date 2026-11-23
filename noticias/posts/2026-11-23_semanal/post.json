@@ -1,0 +1,16 @@
+{
+  "tipo": "semanal",
+  "pasta": "noticias/posts/2026-11-23_semanal",
+  "periodo": "16 a 22 de novembro",
+  "gancho": "Verstappen vence em Las Vegas por 0,6s, e Piastri sai de 17º para o pódio",
+  "noticias": [
+    {"categoria": "F1", "titulo": "Verstappen segura as McLaren e vence em Las Vegas", "resumo": "Max Verstappen largou da pole e cruzou 0,639s à frente de Lando Norris. Oscar Piastri saiu de 17º e completou o pódio. Os cinco primeiros terminaram separados por menos de 3 segundos.", "fonte": "Formula1.com / Autosport"},
+    {"categoria": "MotoGP", "titulo": "Márquez é campeão e iguala Agostini com 8 títulos", "resumo": "Com o 8º lugar em Portimão, Marc Márquez fechou o título de 2026 com uma etapa de sobra. São 8 coroas na categoria rainha, marca de Agostini. Bezzecchi venceu com pódio só da Aprilia.", "fonte": "MotoGP.com / Grande Prêmio"},
+    {"categoria": "F1", "titulo": "Pérez é punido por batida em Rafael Câmara", "resumo": "Os comissários consideraram Sergio Pérez o único culpado pelo toque com o brasileiro da Haas na volta 19. O mexicano abandonou e vai perder cinco posições no grid do GP do Catar.", "fonte": "Autosport"},
+    {"categoria": "WEC", "titulo": "Stellantis pode encerrar Peugeot no WEC e times da Fórmula E", "resumo": "ESPECULAÇÃO: imprensa francesa diz que o grupo vai fechar seus programas de fábrica, incluindo Citroën e Opel na Fórmula E. A Peugeot só confirmou reuniões extraordinárias com funcionários.", "fonte": "RACER / Sportscar365"},
+    {"categoria": "F1", "titulo": "Cadillac confirma Bottas em 2027; Herta fica de fora", "resumo": "Valtteri Bottas segue titular da Cadillac em 2027, ao lado de Sergio Pérez. O americano Colton Herta, que já tem a superlicença, vai ter que esperar pela estreia.", "fonte": "Formula1.com / Sky Sports"},
+    {"categoria": "Fórmula E", "titulo": "Bateria explode e encerra a pré-temporada em Madri", "resumo": "No último dia de testes, a bateria do carro de Taylor Barnard explodiu e provocou uma grande bola de fogo. Os bombeiros foram acionados e a pista não voltou a abrir.", "fonte": "RacingNews365"},
+    {"categoria": "F1", "titulo": "Hadjar é punido por segurar o pelotão no safety car", "resumo": "Os comissários entenderam que Isack Hadjar andou lento de propósito para facilitar a parada dupla da Red Bull com Verstappen. Levou 10s e caiu de 14º para 15º.", "fonte": "Autosport / Grande Prêmio"},
+    {"categoria": "F1", "titulo": "Briga pelo vice: Verstappen abre 37 pontos", "resumo": "Com Antonelli já campeão, Verstappen soma 304 pontos. Hamilton tem 267, e Russell e Norris, 264. Faltam Catar e Abu Dhabi.", "fonte": "Crash.net"}
+  ]
+}
