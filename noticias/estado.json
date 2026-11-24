@@ -115,18 +115,21 @@
         "https://www.motogp.com/en/news/2026/11/22/bezzecchi-wins-in-portugal-as-marc-marquez-finishes-p8-to-clinch-his-8th-motogp-title/1186076",
         "https://grandepremio.com/en/motogp/marc-marquez-wins-eighth-motogp-title-in-portugal-as-bezzecchi-leads-aprilia-podium-sweep/"
       ]
-    }
-  ],
-  "pendentes": [
+    },
     {
-      "data_hora": "2026-11-23T20:35-03:00",
-      "titulo": "Stellantis tira a Peugeot do WEC e deixa a Fórmula E",
+      "data": "2026-11-23",
+      "tipo": "urgente",
+      "status": "expirada",
+      "pasta": "noticias/posts/2026-11-23-20h_urgente",
+      "titulos": [
+        "Stellantis tira a Peugeot do WEC e deixa a Fórmula E"
+      ],
       "fontes": [
         "https://racer.com/2026/11/23/stellantis-confirms-closure-of-wec-formula-e-programs",
         "https://grandepremio.com/en/endurance/wec/stellantis-shocks-motorsport-as-peugeot-exits-wec-and-citroen-opel-leave-formula-e/",
         "https://www.motorsportweek.com/2026/11/23/stellantis-wec-formula-e-announcement/"
-      ],
-      "pasta": "noticias/posts/2026-11-23-20h_urgente"
+      ]
     }
-  ]
+  ],
+  "pendentes": []
 }
