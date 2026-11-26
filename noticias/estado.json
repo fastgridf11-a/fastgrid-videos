@@ -131,5 +131,17 @@
       ]
     }
   ],
-  "pendentes": []
+  "pendentes": [
+    {
+      "data_hora": "2026-11-26 09:40",
+      "titulo": "Bearman fica na Haas e fecha o grid de 2027",
+      "fontes": [
+        "https://skysports.com/f1/news/13610208/oliver-bearman-to-remain-with-haas-for-2027-f1-season-after-new-contract-finally-agreed-ahead-of-qatar-gp",
+        "https://racingnews365.com/haas-announce-completed-f1-driver-line-up-after-mysterious-delay",
+        "https://grandepremio.com/br/f1/haas-encerra-espera-e-renova-com-bearman-confira-como-esta-grid-da-f1-2027/",
+        "https://www.autoracing.com.br/haas-confirma-oliver-bearman-f1-2027/"
+      ],
+      "pasta": "noticias/posts/2026-11-26-09h_urgente"
+    }
+  ]
 }
