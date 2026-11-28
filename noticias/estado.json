@@ -144,18 +144,21 @@
         "https://grandepremio.com/br/f1/haas-encerra-espera-e-renova-com-bearman-confira-como-esta-grid-da-f1-2027/",
         "https://www.autoracing.com.br/haas-confirma-oliver-bearman-f1-2027/"
       ]
-    }
-  ],
-  "pendentes": [
+    },
     {
-      "data_hora": "2026-11-27 09:40",
-      "titulo": "Márquez anuncia aposentadoria da MotoGP",
+      "data": "2026-11-27",
+      "tipo": "urgente",
+      "status": "expirada",
+      "pasta": "noticias/posts/2026-11-27-09h_urgente",
+      "titulos": [
+        "Márquez anuncia aposentadoria da MotoGP"
+      ],
       "fontes": [
         "https://www.motogp.com/en/news/2026/11/27/marc-marquez-announces-retirement-from-motogp/1268528",
         "https://www.crash.net/motogp/news/1110937/1/marc-marquez-announces-motogp-retirement-days-after-winning-2026-title",
         "https://grandepremio.com/en/motogp/why-is-marc-marquez-retiring-from-motogp-at-33-the-injuries-and-physical-struggles-behind-his-decision"
-      ],
-      "pasta": "noticias/posts/2026-11-27-09h_urgente"
+      ]
     }
-  ]
+  ],
+  "pendentes": []
 }
